@@ -1,0 +1,85 @@
+2019-04-15 02:29:35,424 - Manager.py[line:123] - INFO: 进程 10450：Manager 准备完毕...
+2019-04-15 02:29:35,605 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 02:29:35,610 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 02:39:21,240 - Manager.py[line:123] - INFO: 进程 10527：Manager 准备完毕...
+2019-04-15 02:39:51,794 - Manager.py[line:123] - INFO: 进程 10535：Manager 准备完毕...
+2019-04-15 02:49:39,833 - Manager.py[line:123] - INFO: 进程 10608：Manager 准备完毕...
+2019-04-15 02:53:54,562 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 02:53:54,567 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 02:54:16,056 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 02:54:16,070 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 02:54:16,072 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 02:54:16,088 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 02:54:16,151 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 02:54:16,261 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 02:54:16,262 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 02:54:16,868 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 02:54:17,517 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 02:54:17,518 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 02:54:21,730 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 02:54:22,528 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 02:54:24,219 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 02:54:24,220 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 02:54:30,072 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 02:54:30,074 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 02:54:35,230 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 02:54:35,232 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 03:05:33,321 - Manager.py[line:123] - INFO: 进程 10758：Manager 准备完毕...
+2019-04-15 03:05:35,523 - Manager.py[line:123] - INFO: 进程 10763：Manager 准备完毕...
+2019-04-15 03:16:44,868 - Manager.py[line:123] - INFO: 进程 10825：Manager 准备完毕...
+2019-04-15 03:25:40,183 - Manager.py[line:123] - INFO: 进程 10900：Manager 准备完毕...
+2019-04-15 04:15:36,002 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 04:15:36,002 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 04:15:36,073 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 04:15:36,101 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 04:15:36,111 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 04:15:57,523 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:15:57,547 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 04:15:57,549 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:15:57,555 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:15:57,674 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:15:57,711 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 04:15:57,713 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:15:58,367 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:15:58,825 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 04:15:58,826 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:16:02,495 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 04:16:02,497 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:16:02,988 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:16:03,546 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:16:03,546 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 04:16:03,548 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:16:04,513 - UpdateVideoToMysql.py[line:109] - INFO: source/videoImg/36183133_1715324568532991_9186451651869802496_n.jpg 已存在！
+2019-04-15 04:16:04,514 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:16:06,889 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:16:06,891 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-15 04:36:07,406 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 04:36:07,474 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 04:36:07,479 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 04:56:27,656 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 04:56:27,657 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 04:56:27,660 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 04:56:27,661 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 05:16:47,866 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 05:16:47,867 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 05:16:47,871 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 05:16:47,871 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 05:37:07,999 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 05:37:08,065 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 05:37:08,072 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 05:57:28,246 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 05:57:28,246 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 05:57:28,251 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 05:57:28,251 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 06:17:48,347 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 06:17:48,347 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 06:17:48,419 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 06:17:48,420 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 06:38:08,564 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 06:38:08,563 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 06:38:08,636 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 06:38:08,637 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 06:58:28,816 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 06:58:28,817 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-15 06:58:28,821 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-15 06:58:28,821 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！

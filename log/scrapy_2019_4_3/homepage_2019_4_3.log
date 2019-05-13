@@ -1,0 +1,23 @@
+2019-04-03 05:39:07,279 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-04-03 05:40:21,288 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-04-03 05:50:42,651 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-04-03 05:51:03,844 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-04-03 05:51:36,581 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Eagle-Gadgets-2061397200656492/: 爬取成功！
+2019-04-03 05:51:43,133 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/mymakeupbrushset/: 爬取成功！
+2019-04-03 05:51:43,207 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/ShedaviHair/: 爬取成功！
+2019-04-03 05:51:43,374 - GetVideoSpider.py[line:24] - INFO: 启动：getVideoSpider(爬取adSector.com网站的视频详情)
+2019-04-03 11:51:47,911 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-04-03 11:53:01,229 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-04-03 12:03:42,922 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-04-03 12:04:04,113 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-04-03 12:04:10,005 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/HighBornLondon/: 爬取成功！
+2019-04-03 12:04:11,141 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/World-of-Kitchen-Appliances-532349353946051/: 爬取成功！
+2019-04-03 12:04:11,639 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/TheKitchenTribe/: 爬取成功！
+2019-04-03 12:04:11,812 - GetVideoSpider.py[line:24] - INFO: 启动：getVideoSpider(爬取adSector.com网站的视频详情)
+2019-04-03 18:04:26,649 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-04-03 18:05:40,274 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-04-03 18:10:43,326 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-04-03 18:11:04,528 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-04-03 18:11:22,391 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Lorgeous-Fshion-197297354483592/: 爬取成功！
+2019-04-03 18:11:26,650 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/USA-Vital-Lifestyle-TV-333678620503785/: 爬取成功！
+2019-04-03 18:11:30,887 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/SUPER-SHOP-2146417805670716/: 爬取成功！

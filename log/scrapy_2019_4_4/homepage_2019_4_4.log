@@ -1,0 +1,32 @@
+2019-04-04 00:11:31,541 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-04-04 00:12:45,496 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-04-04 00:18:31,294 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-04-04 00:18:52,537 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-04-04 00:19:17,722 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/HALOCHICSTORE/: 爬取成功！
+2019-04-04 00:19:23,551 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/bethennyfrankel/: 爬取成功！
+2019-04-04 00:19:23,906 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Modastty/: 爬取成功！
+2019-04-04 00:19:24,035 - GetVideoSpider.py[line:24] - INFO: 启动：getVideoSpider(爬取adSector.com网站的视频详情)
+2019-04-04 06:19:39,469 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-04-04 06:20:53,406 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-04-04 06:27:25,824 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-04-04 06:27:47,033 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-04-04 06:27:53,225 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/ICareAboutMyThreads/: 爬取成功！
+2019-04-04 06:27:54,840 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/GiftDropperzcom-2288057764801597/: 爬取成功！
+2019-04-04 06:27:55,287 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Amazingly-Easy-Car-Scratch-Removal-2018-466954800496173/: 爬取成功！
+2019-04-04 06:27:55,416 - GetVideoSpider.py[line:24] - INFO: 启动：getVideoSpider(爬取adSector.com网站的视频详情)
+2019-04-04 12:27:59,678 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-04-04 12:29:13,502 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-04-04 12:35:57,595 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-04-04 12:36:18,790 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-04-04 12:36:42,623 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/irestoreusa/: 爬取成功！
+2019-04-04 12:36:42,696 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/SalinPlusAirPurifier/: 爬取成功！
+2019-04-04 12:36:45,995 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/SokoGlam/: 爬取成功！
+2019-04-04 12:36:46,124 - GetVideoSpider.py[line:24] - INFO: 启动：getVideoSpider(爬取adSector.com网站的视频详情)
+2019-04-04 18:36:58,848 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-04-04 18:38:12,186 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-04-04 18:46:14,292 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-04-04 18:46:35,494 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-04-04 18:46:43,722 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/oberloapp/: 爬取成功！
+2019-04-04 18:46:45,283 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/theautobrush/: 爬取成功！
+2019-04-04 18:46:45,882 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/luglife/: 爬取成功！
+2019-04-04 18:46:46,011 - GetVideoSpider.py[line:24] - INFO: 启动：getVideoSpider(爬取adSector.com网站的视频详情)

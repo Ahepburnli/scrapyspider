@@ -1,0 +1,144 @@
+2019-04-18 12:22:30,490 - Manager.py[line:123] - INFO: 进程 3357：Manager 准备完毕...
+2019-04-18 12:22:35,115 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:23:00,640 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:26:17,528 - VideoInfoFromMysql.py[line:68] - INFO: refresh_info 完毕！
+2019-04-18 12:26:24,072 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:27:47,381 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:29:45,507 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:32:08,209 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:34:33,284 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:35:05,147 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:35:09,962 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:35:21,418 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:35:59,069 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:36:23,923 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:36:43,055 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:36:47,754 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:38:10,121 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:40:28,749 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:43:11,850 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 12:43:14,381 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 12:47:23,802 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:47:28,167 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:47:56,815 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:48:29,547 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:49:53,165 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:53:15,612 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:55:33,441 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:55:44,963 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:56:26,374 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 12:58:21,677 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:00:42,410 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:01:54,730 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:02:21,379 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:03:18,024 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:03:31,082 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 13:03:33,041 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 13:04:33,031 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:05:37,580 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:05:45,852 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:07:45,718 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:08:59,516 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:09:56,721 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:11:20,039 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:11:34,933 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:14:29,803 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:14:47,427 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:14:52,250 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:17:05,203 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:17:13,556 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:17:25,682 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:18:49,570 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:19:57,648 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:20:07,999 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:21:41,355 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:21:48,695 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:22:04,260 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:23:49,177 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:23:52,313 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 13:23:54,258 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 13:24:20,437 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:24:28,447 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:24:32,906 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:25:05,991 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:25:27,740 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:25:50,360 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:27:51,497 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:29:05,930 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:30:30,729 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:31:40,986 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:32:42,732 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:32:55,838 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:35:06,989 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:35:37,941 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:36:40,294 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:37:02,147 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:38:37,177 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:39:11,163 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:39:24,207 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:40:07,194 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:40:12,373 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:40:21,454 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:40:48,560 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:41:57,184 - VideoInfoToMysql.py[line:51] - INFO: 保存 video_info_data 完毕！
+2019-04-18 13:44:14,021 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 13:44:16,480 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 14:04:33,701 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 14:04:36,645 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 14:24:54,234 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 14:24:55,607 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 14:45:15,478 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 14:45:17,500 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 15:05:37,941 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 15:05:39,225 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 15:25:56,510 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 15:25:59,012 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 15:46:30,261 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 15:49:41,059 - MySqlHelper.py[line:67] - ERROR: (2013, 'Lost connection to MySQL server during query')
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/Engine/MySqlHelper.py", line 63, in select
+    self.conn.commit()
+  File "/usr/local/lib/python3.6/dist-packages/pymysql/connections.py", line 420, in commit
+    self._read_ok_packet()
+  File "/usr/local/lib/python3.6/dist-packages/pymysql/connections.py", line 394, in _read_ok_packet
+    pkt = self._read_packet()
+  File "/usr/local/lib/python3.6/dist-packages/pymysql/connections.py", line 657, in _read_packet
+    packet_header = self._read_bytes(4)
+  File "/usr/local/lib/python3.6/dist-packages/pymysql/connections.py", line 707, in _read_bytes
+    CR.CR_SERVER_LOST, "Lost connection to MySQL server during query")
+pymysql.err.OperationalError: (2013, 'Lost connection to MySQL server during query')
+2019-04-18 15:49:41,062 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 16:06:39,045 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 16:06:41,067 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 16:26:59,167 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 16:27:02,164 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 16:47:19,339 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 16:47:20,624 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 17:07:42,116 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 17:07:44,869 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 17:27:59,354 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 17:28:00,660 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 17:48:21,043 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 17:48:23,695 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 18:08:40,051 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 18:08:42,018 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 18:09:03,480 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-18 18:09:06,866 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-18 18:09:08,893 - UpdateVideoToMysql.py[line:134] - INFO: 保存 video_content_data 完毕！
+2019-04-18 18:22:53,141 - AdsFromMysql.py[line:75] - INFO: refresh_ads 完毕！
+2019-04-18 18:23:15,909 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！
+2019-04-18 18:23:18,352 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！
+2019-04-18 18:23:55,139 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！
+2019-04-18 18:27:39,336 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！
+2019-04-18 18:31:27,267 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！
+2019-04-18 18:31:30,119 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 18:31:32,082 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 18:35:10,716 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！
+2019-04-18 18:38:49,327 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！
+2019-04-18 18:43:03,289 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！
+2019-04-18 18:47:18,504 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！
+2019-04-18 18:51:27,757 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！
+2019-04-18 18:51:30,425 - VideoContentFromMysql.py[line:76] - INFO: refresh_video_content 完毕！
+2019-04-18 18:51:32,463 - LogoSrcFromMysql.py[line:68] - INFO: refresh_logoSrc 完毕！
+2019-04-18 18:56:04,267 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！
+2019-04-18 19:01:29,115 - VideoToMysql.py[line:91] - INFO: 保存 video_data 完毕！

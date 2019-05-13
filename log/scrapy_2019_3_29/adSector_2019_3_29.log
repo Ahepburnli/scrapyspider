@@ -1,0 +1,406 @@
+2019-03-29 02:16:36,807 - AdSectorSpider.py[line:62] - INFO: AdSectorSpider启动...
+2019-03-29 02:16:41,702 - AdSectorChromeMiddleware.py[line:54] - INFO: leite2015: 登录成功！
+2019-03-29 02:16:42,145 - AdSectorChromeMiddleware.py[line:58] - INFO: 开始下拉翻页获取视频链接...
+2019-03-29 02:16:45,148 - AdSectorChromeMiddleware.py[line:61] - INFO: 第1次翻页...
+2019-03-29 02:16:48,163 - AdSectorChromeMiddleware.py[line:61] - INFO: 第2次翻页...
+2019-03-29 02:16:51,180 - AdSectorChromeMiddleware.py[line:61] - INFO: 第3次翻页...
+2019-03-29 02:16:54,195 - AdSectorChromeMiddleware.py[line:61] - INFO: 第4次翻页...
+2019-03-29 02:16:57,216 - AdSectorChromeMiddleware.py[line:61] - INFO: 第5次翻页...
+2019-03-29 02:17:00,228 - AdSectorChromeMiddleware.py[line:61] - INFO: 第6次翻页...
+2019-03-29 02:17:03,235 - AdSectorChromeMiddleware.py[line:61] - INFO: 第7次翻页...
+2019-03-29 02:17:06,242 - AdSectorChromeMiddleware.py[line:61] - INFO: 第8次翻页...
+2019-03-29 02:17:09,246 - AdSectorChromeMiddleware.py[line:61] - INFO: 第9次翻页...
+2019-03-29 02:17:12,254 - AdSectorChromeMiddleware.py[line:61] - INFO: 第10次翻页...
+2019-03-29 02:17:15,263 - AdSectorChromeMiddleware.py[line:61] - INFO: 第11次翻页...
+2019-03-29 02:17:18,271 - AdSectorChromeMiddleware.py[line:61] - INFO: 第12次翻页...
+2019-03-29 02:17:21,280 - AdSectorChromeMiddleware.py[line:61] - INFO: 第13次翻页...
+2019-03-29 02:17:24,284 - AdSectorChromeMiddleware.py[line:61] - INFO: 第14次翻页...
+2019-03-29 02:17:27,292 - AdSectorChromeMiddleware.py[line:61] - INFO: 第15次翻页...
+2019-03-29 02:17:30,299 - AdSectorChromeMiddleware.py[line:61] - INFO: 第16次翻页...
+2019-03-29 02:17:33,306 - AdSectorChromeMiddleware.py[line:61] - INFO: 第17次翻页...
+2019-03-29 02:17:36,316 - AdSectorChromeMiddleware.py[line:61] - INFO: 第18次翻页...
+2019-03-29 02:17:39,324 - AdSectorChromeMiddleware.py[line:61] - INFO: 第19次翻页...
+2019-03-29 02:17:42,331 - AdSectorChromeMiddleware.py[line:61] - INFO: 第20次翻页...
+2019-03-29 02:17:47,557 - AdSectorSpider.py[line:92] - INFO: 登陆成功，开始解析...
+2019-03-29 02:17:47,585 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/372844359824841
+2019-03-29 02:17:47,586 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/536594843508403
+2019-03-29 02:17:47,589 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/471132633242838
+2019-03-29 02:17:47,592 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/1746853745395190
+2019-03-29 02:17:47,593 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/147021062061602
+2019-03-29 02:17:47,594 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/250302408490039
+2019-03-29 02:17:47,595 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/1956450757918107
+2019-03-29 02:18:37,765 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/1690762717829785
+2019-03-29 02:18:37,832 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/250302408490039/videos/1125265810993690
+2019-03-29 02:18:37,839 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/147021062061602/videos/2063170793779943
+2019-03-29 02:18:37,839 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529342 解析视频链接成功！
+2019-03-29 02:18:37,852 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/1746853745395190/videos/1919344814854854
+2019-03-29 02:18:37,863 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/1165908370184712/videos/1892758787499663
+2019-03-29 02:18:37,873 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/1756128491320752/videos/303230907056867
+2019-03-29 02:18:37,884 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/471132633242838/videos/826656684350346
+2019-03-29 02:18:37,895 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/581933835243183/videos/565465877273974
+2019-03-29 02:18:37,907 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/536594843508403/videos/552755275225693
+2019-03-29 02:18:43,506 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529306 解析视频链接成功！
+2019-03-29 02:18:43,509 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529386 解析视频链接成功！
+2019-03-29 02:18:43,512 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529388 解析视频链接成功！
+2019-03-29 02:18:43,517 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529422 解析视频链接成功！
+2019-03-29 02:18:43,520 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529458 解析视频链接成功！
+2019-03-29 02:18:43,523 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529464 解析视频链接成功！
+2019-03-29 02:18:43,526 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529496 解析视频链接成功！
+2019-03-29 02:19:22,464 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/1753035004784427
+2019-03-29 02:19:22,467 - AdSectorSpider.py[line:108] - INFO: https://adsector.com/login : 解析完毕！
+2019-03-29 02:19:22,476 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/372844359824841/videos/401621897067183
+2019-03-29 02:19:22,477 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529734 解析视频链接成功！
+2019-03-29 02:19:22,526 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526061 解析视频链接成功！
+2019-03-29 02:19:39,306 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526597 解析视频链接成功！
+2019-03-29 02:19:39,308 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10518050 解析视频链接成功！
+2019-03-29 02:19:39,311 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10523588 解析视频链接成功！
+2019-03-29 02:19:39,314 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526135 解析视频链接成功！
+2019-03-29 02:19:39,317 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526305 解析视频链接成功！
+2019-03-29 02:19:39,320 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526397 解析视频链接成功！
+2019-03-29 02:20:12,756 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526406 解析视频链接成功！
+2019-03-29 02:20:12,781 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/1753035004784427/videos/2135917243162866
+2019-03-29 02:20:12,782 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10432750 解析视频链接成功！
+2019-03-29 02:20:12,828 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10201598 解析视频链接成功！
+2019-03-29 02:20:12,831 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10221815 解析视频链接成功！
+2019-03-29 02:20:29,532 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10340417 解析视频链接成功！
+2019-03-29 02:20:29,538 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10473619 解析视频链接成功！
+2019-03-29 02:20:29,541 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10478725 解析视频链接成功！
+2019-03-29 02:20:29,545 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10494961 解析视频链接成功！
+2019-03-29 02:20:29,548 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10511476 解析视频链接成功！
+2019-03-29 02:21:02,898 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10514003 解析视频链接成功！
+2019-03-29 02:21:02,922 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526521 解析视频链接成功！
+2019-03-29 02:21:02,943 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527311 解析视频链接成功！
+2019-03-29 02:21:02,963 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10514133 解析视频链接成功！
+2019-03-29 02:21:02,966 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526409 解析视频链接成功！
+2019-03-29 02:21:19,694 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526434 解析视频链接成功！
+2019-03-29 02:21:19,699 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526653 解析视频链接成功！
+2019-03-29 02:21:19,703 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527342 解析视频链接成功！
+2019-03-29 02:21:19,707 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527600 解析视频链接成功！
+2019-03-29 02:21:53,132 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527651 解析视频链接成功！
+2019-03-29 02:21:53,146 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527671 解析视频链接成功！
+2019-03-29 02:21:53,157 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527743 解析视频链接成功！
+2019-03-29 02:21:53,182 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527857 解析视频链接成功！
+2019-03-29 02:21:53,192 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527887 解析视频链接成功！
+2019-03-29 02:21:53,201 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527932 解析视频链接成功！
+2019-03-29 02:22:04,558 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527819 解析视频链接成功！
+2019-03-29 02:22:04,565 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527933 解析视频链接成功！
+2019-03-29 02:22:04,569 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527950 解析视频链接成功！
+2019-03-29 02:22:43,579 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528444 解析视频链接成功！
+2019-03-29 02:22:43,580 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527953 解析视频链接成功！
+2019-03-29 02:22:43,610 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528579 解析视频链接成功！
+2019-03-29 02:22:43,623 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528620 解析视频链接成功！
+2019-03-29 02:22:43,630 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528732 解析视频链接成功！
+2019-03-29 02:22:43,640 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528758 解析视频链接成功！
+2019-03-29 02:22:49,218 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528512 解析视频链接成功！
+2019-03-29 02:22:49,221 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528537 解析视频链接成功！
+2019-03-29 02:22:49,227 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528936 解析视频链接成功！
+2019-03-29 02:22:49,236 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/1690762717829785/videos/306904626581425
+2019-03-29 02:22:49,237 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529001 解析视频链接成功！
+2019-03-29 02:22:49,340 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/1956450757918107/videos/298615634333183
+2019-03-29 02:22:49,341 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529104 解析视频链接成功！
+2019-03-29 08:24:57,360 - AdSectorSpider.py[line:62] - INFO: AdSectorSpider启动...
+2019-03-29 08:25:01,946 - AdSectorChromeMiddleware.py[line:54] - INFO: leite2015: 登录成功！
+2019-03-29 08:25:02,779 - AdSectorChromeMiddleware.py[line:58] - INFO: 开始下拉翻页获取视频链接...
+2019-03-29 08:25:05,782 - AdSectorChromeMiddleware.py[line:61] - INFO: 第1次翻页...
+2019-03-29 08:25:08,795 - AdSectorChromeMiddleware.py[line:61] - INFO: 第2次翻页...
+2019-03-29 08:25:11,808 - AdSectorChromeMiddleware.py[line:61] - INFO: 第3次翻页...
+2019-03-29 08:25:14,821 - AdSectorChromeMiddleware.py[line:61] - INFO: 第4次翻页...
+2019-03-29 08:25:17,836 - AdSectorChromeMiddleware.py[line:61] - INFO: 第5次翻页...
+2019-03-29 08:25:20,846 - AdSectorChromeMiddleware.py[line:61] - INFO: 第6次翻页...
+2019-03-29 08:25:23,854 - AdSectorChromeMiddleware.py[line:61] - INFO: 第7次翻页...
+2019-03-29 08:25:26,860 - AdSectorChromeMiddleware.py[line:61] - INFO: 第8次翻页...
+2019-03-29 08:25:29,866 - AdSectorChromeMiddleware.py[line:61] - INFO: 第9次翻页...
+2019-03-29 08:25:32,873 - AdSectorChromeMiddleware.py[line:61] - INFO: 第10次翻页...
+2019-03-29 08:25:35,879 - AdSectorChromeMiddleware.py[line:61] - INFO: 第11次翻页...
+2019-03-29 08:25:38,886 - AdSectorChromeMiddleware.py[line:61] - INFO: 第12次翻页...
+2019-03-29 08:25:41,892 - AdSectorChromeMiddleware.py[line:61] - INFO: 第13次翻页...
+2019-03-29 08:25:44,897 - AdSectorChromeMiddleware.py[line:61] - INFO: 第14次翻页...
+2019-03-29 08:25:47,903 - AdSectorChromeMiddleware.py[line:61] - INFO: 第15次翻页...
+2019-03-29 08:25:50,910 - AdSectorChromeMiddleware.py[line:61] - INFO: 第16次翻页...
+2019-03-29 08:25:53,917 - AdSectorChromeMiddleware.py[line:61] - INFO: 第17次翻页...
+2019-03-29 08:25:56,926 - AdSectorChromeMiddleware.py[line:61] - INFO: 第18次翻页...
+2019-03-29 08:25:59,932 - AdSectorChromeMiddleware.py[line:61] - INFO: 第19次翻页...
+2019-03-29 08:26:02,939 - AdSectorChromeMiddleware.py[line:61] - INFO: 第20次翻页...
+2019-03-29 08:26:08,142 - AdSectorSpider.py[line:92] - INFO: 登陆成功，开始解析...
+2019-03-29 08:26:08,165 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/152327404827768
+2019-03-29 08:26:58,426 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529001 解析视频链接成功！
+2019-03-29 08:26:58,456 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529342 解析视频链接成功！
+2019-03-29 08:27:09,585 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528936 解析视频链接成功！
+2019-03-29 08:27:09,587 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529104 解析视频链接成功！
+2019-03-29 08:27:09,591 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529306 解析视频链接成功！
+2019-03-29 08:27:09,594 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529386 解析视频链接成功！
+2019-03-29 08:27:09,597 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529388 解析视频链接成功！
+2019-03-29 08:27:09,599 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529422 解析视频链接成功！
+2019-03-29 08:27:42,923 - AdSectorSpider.py[line:108] - INFO: https://adsector.com/login : 解析完毕！
+2019-03-29 08:27:48,530 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529458 解析视频链接成功！
+2019-03-29 08:27:54,171 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526409 解析视频链接成功！
+2019-03-29 08:27:54,174 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526434 解析视频链接成功！
+2019-03-29 08:28:05,313 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10478725 解析视频链接成功！
+2019-03-29 08:28:05,316 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10494961 解析视频链接成功！
+2019-03-29 08:28:05,319 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10511476 解析视频链接成功！
+2019-03-29 08:28:05,322 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10514003 解析视频链接成功！
+2019-03-29 08:28:05,325 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10514133 解析视频链接成功！
+2019-03-29 08:28:05,328 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10518050 解析视频链接成功！
+2019-03-29 08:28:05,340 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/445629222247515/videos/1295813923895703
+2019-03-29 08:28:05,341 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/8917475 解析视频链接成功！
+2019-03-29 08:28:44,275 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10201598 解析视频链接成功！
+2019-03-29 08:28:49,949 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526061 解析视频链接成功！
+2019-03-29 08:28:49,962 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10221815 解析视频链接成功！
+2019-03-29 08:28:49,965 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10340417 解析视频链接成功！
+2019-03-29 08:29:01,082 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10432750 解析视频链接成功！
+2019-03-29 08:29:01,085 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10473619 解析视频链接成功！
+2019-03-29 08:29:01,088 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10523588 解析视频链接成功！
+2019-03-29 08:29:01,091 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526135 解析视频链接成功！
+2019-03-29 08:29:01,094 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526305 解析视频链接成功！
+2019-03-29 08:29:34,334 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526397 解析视频链接成功！
+2019-03-29 08:29:39,916 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526521 解析视频链接成功！
+2019-03-29 08:29:39,916 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526406 解析视频链接成功！
+2019-03-29 08:29:45,524 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526597 解析视频链接成功！
+2019-03-29 08:29:45,534 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527671 解析视频链接成功！
+2019-03-29 08:29:56,649 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526653 解析视频链接成功！
+2019-03-29 08:29:56,651 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527311 解析视频链接成功！
+2019-03-29 08:29:56,654 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527342 解析视频链接成功！
+2019-03-29 08:29:56,657 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527600 解析视频链接成功！
+2019-03-29 08:29:56,659 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527651 解析视频链接成功！
+2019-03-29 08:29:56,670 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527743 解析视频链接成功！
+2019-03-29 08:30:39,944 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527819 解析视频链接成功！
+2019-03-29 08:30:46,102 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527932 解析视频链接成功！
+2019-03-29 08:30:46,146 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527857 解析视频链接成功！
+2019-03-29 08:30:46,149 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527887 解析视频链接成功！
+2019-03-29 08:30:57,229 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527933 解析视频链接成功！
+2019-03-29 08:30:57,232 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527950 解析视频链接成功！
+2019-03-29 08:30:57,234 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527953 解析视频链接成功！
+2019-03-29 08:30:57,237 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528444 解析视频链接成功！
+2019-03-29 08:30:57,240 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528512 解析视频链接成功！
+2019-03-29 08:31:24,962 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528537 解析视频链接成功！
+2019-03-29 08:31:24,971 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528579 解析视频链接成功！
+2019-03-29 08:31:24,997 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528732 解析视频链接成功！
+2019-03-29 08:31:25,006 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528758 解析视频链接成功！
+2019-03-29 08:31:25,036 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529734 解析视频链接成功！
+2019-03-29 08:31:25,039 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528620 解析视频链接成功！
+2019-03-29 08:31:25,042 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529464 解析视频链接成功！
+2019-03-29 08:31:25,044 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529496 解析视频链接成功！
+2019-03-29 08:31:25,069 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/152327404827768/videos/2720920097981179
+2019-03-29 08:31:25,069 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10530163 解析视频链接成功！
+2019-03-29 14:33:29,760 - AdSectorSpider.py[line:62] - INFO: AdSectorSpider启动...
+2019-03-29 14:33:34,456 - AdSectorChromeMiddleware.py[line:54] - INFO: leite2015: 登录成功！
+2019-03-29 14:33:34,918 - AdSectorChromeMiddleware.py[line:58] - INFO: 开始下拉翻页获取视频链接...
+2019-03-29 14:33:37,921 - AdSectorChromeMiddleware.py[line:61] - INFO: 第1次翻页...
+2019-03-29 14:33:40,933 - AdSectorChromeMiddleware.py[line:61] - INFO: 第2次翻页...
+2019-03-29 14:33:43,947 - AdSectorChromeMiddleware.py[line:61] - INFO: 第3次翻页...
+2019-03-29 14:33:46,959 - AdSectorChromeMiddleware.py[line:61] - INFO: 第4次翻页...
+2019-03-29 14:33:49,975 - AdSectorChromeMiddleware.py[line:61] - INFO: 第5次翻页...
+2019-03-29 14:33:52,987 - AdSectorChromeMiddleware.py[line:61] - INFO: 第6次翻页...
+2019-03-29 14:33:55,993 - AdSectorChromeMiddleware.py[line:61] - INFO: 第7次翻页...
+2019-03-29 14:33:59,000 - AdSectorChromeMiddleware.py[line:61] - INFO: 第8次翻页...
+2019-03-29 14:34:02,006 - AdSectorChromeMiddleware.py[line:61] - INFO: 第9次翻页...
+2019-03-29 14:34:05,012 - AdSectorChromeMiddleware.py[line:61] - INFO: 第10次翻页...
+2019-03-29 14:34:08,020 - AdSectorChromeMiddleware.py[line:61] - INFO: 第11次翻页...
+2019-03-29 14:34:11,030 - AdSectorChromeMiddleware.py[line:61] - INFO: 第12次翻页...
+2019-03-29 14:34:14,036 - AdSectorChromeMiddleware.py[line:61] - INFO: 第13次翻页...
+2019-03-29 14:34:17,043 - AdSectorChromeMiddleware.py[line:61] - INFO: 第14次翻页...
+2019-03-29 14:34:20,050 - AdSectorChromeMiddleware.py[line:61] - INFO: 第15次翻页...
+2019-03-29 14:34:23,059 - AdSectorChromeMiddleware.py[line:61] - INFO: 第16次翻页...
+2019-03-29 14:34:26,065 - AdSectorChromeMiddleware.py[line:61] - INFO: 第17次翻页...
+2019-03-29 14:34:29,072 - AdSectorChromeMiddleware.py[line:61] - INFO: 第18次翻页...
+2019-03-29 14:34:32,078 - AdSectorChromeMiddleware.py[line:61] - INFO: 第19次翻页...
+2019-03-29 14:34:35,086 - AdSectorChromeMiddleware.py[line:61] - INFO: 第20次翻页...
+2019-03-29 14:34:40,292 - AdSectorSpider.py[line:92] - INFO: 登陆成功，开始解析...
+2019-03-29 14:34:40,317 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/19387377544
+2019-03-29 14:34:40,319 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/1171526843009883
+2019-03-29 14:34:40,320 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/2356728981222117
+2019-03-29 14:34:40,321 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/921857771312217
+2019-03-29 14:35:30,571 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529734 解析视频链接成功！
+2019-03-29 14:35:30,581 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10530163 解析视频链接成功！
+2019-03-29 14:35:30,595 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/921857771312217/videos/385092132068679
+2019-03-29 14:35:30,605 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/2356728981222117/videos/2148290378588101
+2019-03-29 14:35:41,762 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529422 解析视频链接成功！
+2019-03-29 14:35:41,764 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529458 解析视频链接成功！
+2019-03-29 14:35:41,767 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529464 解析视频链接成功！
+2019-03-29 14:35:41,771 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529496 解析视频链接成功！
+2019-03-29 14:35:41,774 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10530716 解析视频链接成功！
+2019-03-29 14:35:41,777 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10530937 解析视频链接成功！
+2019-03-29 14:36:15,114 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/1171526843009883/videos/264453834445792
+2019-03-29 14:36:15,135 - AdSectorSpider.py[line:108] - INFO: https://adsector.com/login : 解析完毕！
+2019-03-29 14:36:15,139 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531023 解析视频链接成功！
+2019-03-29 14:36:15,169 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526061 解析视频链接成功！
+2019-03-29 14:36:15,202 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527600 解析视频链接成功！
+2019-03-29 14:36:37,501 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527651 解析视频链接成功！
+2019-03-29 14:36:37,504 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10523588 解析视频链接成功！
+2019-03-29 14:36:37,506 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526135 解析视频链接成功！
+2019-03-29 14:36:37,510 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526305 解析视频链接成功！
+2019-03-29 14:36:37,513 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526397 解析视频链接成功！
+2019-03-29 14:37:05,450 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/8917475 解析视频链接成功！
+2019-03-29 14:37:05,475 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526406 解析视频链接成功！
+2019-03-29 14:37:05,500 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10432750 解析视频链接成功！
+2019-03-29 14:37:05,538 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10201598 解析视频链接成功！
+2019-03-29 14:37:05,541 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10221815 解析视频链接成功！
+2019-03-29 14:37:27,882 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10340417 解析视频链接成功！
+2019-03-29 14:37:27,886 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10473619 解析视频链接成功！
+2019-03-29 14:37:27,890 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10478725 解析视频链接成功！
+2019-03-29 14:37:27,893 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10494961 解析视频链接成功！
+2019-03-29 14:37:55,729 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10511476 解析视频链接成功！
+2019-03-29 14:37:55,742 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/686233954900086/videos/296574044371820
+2019-03-29 14:37:55,763 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526434 解析视频链接成功！
+2019-03-29 14:37:55,783 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10514003 解析视频链接成功！
+2019-03-29 14:37:55,786 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10514133 解析视频链接成功！
+2019-03-29 14:37:55,789 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10518050 解析视频链接成功！
+2019-03-29 14:38:18,008 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10522046 解析视频链接成功！
+2019-03-29 14:38:18,012 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526409 解析视频链接成功！
+2019-03-29 14:38:18,017 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526521 解析视频链接成功！
+2019-03-29 14:38:18,021 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526597 解析视频链接成功！
+2019-03-29 14:38:45,845 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527671 解析视频链接成功！
+2019-03-29 14:38:45,848 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526653 解析视频链接成功！
+2019-03-29 14:38:45,859 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527743 解析视频链接成功！
+2019-03-29 14:38:45,881 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527857 解析视频链接成功！
+2019-03-29 14:38:45,900 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527932 解析视频链接成功！
+2019-03-29 14:38:45,902 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527311 解析视频链接成功！
+2019-03-29 14:38:45,905 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527342 解析视频链接成功！
+2019-03-29 14:39:08,227 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527819 解析视频链接成功！
+2019-03-29 14:39:08,232 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527887 解析视频链接成功！
+2019-03-29 14:39:36,112 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527933 解析视频链接成功！
+2019-03-29 14:39:36,150 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528444 解析视频链接成功！
+2019-03-29 14:39:36,173 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528537 解析视频链接成功！
+2019-03-29 14:39:36,180 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528579 解析视频链接成功！
+2019-03-29 14:39:36,192 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528620 解析视频链接成功！
+2019-03-29 14:39:36,201 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528732 解析视频链接成功！
+2019-03-29 14:39:36,203 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527950 解析视频链接成功！
+2019-03-29 14:39:36,206 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527953 解析视频链接成功！
+2019-03-29 14:40:04,000 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528512 解析视频链接成功！
+2019-03-29 14:40:26,294 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528758 解析视频链接成功！
+2019-03-29 14:40:31,913 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529001 解析视频链接成功！
+2019-03-29 14:40:31,935 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529306 解析视频链接成功！
+2019-03-29 14:40:31,943 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529342 解析视频链接成功！
+2019-03-29 14:40:31,957 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529386 解析视频链接成功！
+2019-03-29 14:40:31,974 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/155577444523958/videos/582713072209087
+2019-03-29 14:40:31,974 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531028 解析视频链接成功！
+2019-03-29 14:40:31,977 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528936 解析视频链接成功！
+2019-03-29 14:40:31,980 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529104 解析视频链接成功！
+2019-03-29 14:40:31,992 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/19387377544/videos/405254246717787
+2019-03-29 14:40:31,993 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531158 解析视频链接成功！
+2019-03-29 14:40:31,997 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529388 解析视频链接成功！
+2019-03-29 14:40:32,007 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/1000554409990511/videos/427784928025361
+2019-03-29 14:40:32,008 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531274 解析视频链接成功！
+2019-03-29 20:42:51,302 - AdSectorSpider.py[line:62] - INFO: AdSectorSpider启动...
+2019-03-29 20:42:55,099 - AdSectorChromeMiddleware.py[line:54] - INFO: leite2015: 登录成功！
+2019-03-29 20:42:55,891 - AdSectorChromeMiddleware.py[line:58] - INFO: 开始下拉翻页获取视频链接...
+2019-03-29 20:42:58,894 - AdSectorChromeMiddleware.py[line:61] - INFO: 第1次翻页...
+2019-03-29 20:43:01,908 - AdSectorChromeMiddleware.py[line:61] - INFO: 第2次翻页...
+2019-03-29 20:43:04,923 - AdSectorChromeMiddleware.py[line:61] - INFO: 第3次翻页...
+2019-03-29 20:43:07,943 - AdSectorChromeMiddleware.py[line:61] - INFO: 第4次翻页...
+2019-03-29 20:43:10,958 - AdSectorChromeMiddleware.py[line:61] - INFO: 第5次翻页...
+2019-03-29 20:43:13,975 - AdSectorChromeMiddleware.py[line:61] - INFO: 第6次翻页...
+2019-03-29 20:43:16,992 - AdSectorChromeMiddleware.py[line:61] - INFO: 第7次翻页...
+2019-03-29 20:43:20,004 - AdSectorChromeMiddleware.py[line:61] - INFO: 第8次翻页...
+2019-03-29 20:43:23,012 - AdSectorChromeMiddleware.py[line:61] - INFO: 第9次翻页...
+2019-03-29 20:43:26,020 - AdSectorChromeMiddleware.py[line:61] - INFO: 第10次翻页...
+2019-03-29 20:43:29,027 - AdSectorChromeMiddleware.py[line:61] - INFO: 第11次翻页...
+2019-03-29 20:43:32,034 - AdSectorChromeMiddleware.py[line:61] - INFO: 第12次翻页...
+2019-03-29 20:43:35,043 - AdSectorChromeMiddleware.py[line:61] - INFO: 第13次翻页...
+2019-03-29 20:43:38,051 - AdSectorChromeMiddleware.py[line:61] - INFO: 第14次翻页...
+2019-03-29 20:43:41,057 - AdSectorChromeMiddleware.py[line:61] - INFO: 第15次翻页...
+2019-03-29 20:43:44,065 - AdSectorChromeMiddleware.py[line:61] - INFO: 第16次翻页...
+2019-03-29 20:43:47,071 - AdSectorChromeMiddleware.py[line:61] - INFO: 第17次翻页...
+2019-03-29 20:43:50,078 - AdSectorChromeMiddleware.py[line:61] - INFO: 第18次翻页...
+2019-03-29 20:43:53,085 - AdSectorChromeMiddleware.py[line:61] - INFO: 第19次翻页...
+2019-03-29 20:43:56,092 - AdSectorChromeMiddleware.py[line:61] - INFO: 第20次翻页...
+2019-03-29 20:44:01,317 - AdSectorSpider.py[line:92] - INFO: 登陆成功，开始解析...
+2019-03-29 20:44:01,360 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/227397021515415
+2019-03-29 20:44:01,363 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/1419385831676427
+2019-03-29 20:44:01,366 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/136053906460081
+2019-03-29 20:44:01,367 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/688775858188898
+2019-03-29 20:44:01,370 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/246657896284979
+2019-03-29 20:44:45,871 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/542850719547201
+2019-03-29 20:44:45,872 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/280130154809
+2019-03-29 20:44:45,873 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/992949710902011
+2019-03-29 20:44:51,502 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/246657896284979/videos/318058038907046
+2019-03-29 20:44:51,509 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/155577444523958/videos/10161820075565106
+2019-03-29 20:44:51,510 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531674 解析视频链接成功！
+2019-03-29 20:44:51,523 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/688775858188898/videos/272490577020030
+2019-03-29 20:44:51,534 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/136053906460081/videos/1210285285805508
+2019-03-29 20:44:51,546 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/606426623024865/videos/1121045881434291
+2019-03-29 20:44:51,557 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/1419385831676427/videos/845488529122993
+2019-03-29 20:44:51,565 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/19387377544/videos/405254286717783
+2019-03-29 20:44:51,565 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10532280 解析视频链接成功！
+2019-03-29 20:44:51,588 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/227397021515415/videos/261909904730793
+2019-03-29 20:44:51,588 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531579 解析视频链接成功！
+2019-03-29 20:45:02,737 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531733 解析视频链接成功！
+2019-03-29 20:45:02,740 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10532031 解析视频链接成功！
+2019-03-29 20:45:02,744 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10532089 解析视频链接成功！
+2019-03-29 20:45:02,748 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10532206 解析视频链接成功！
+2019-03-29 20:45:02,761 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10532301 解析视频链接成功！
+2019-03-29 20:45:36,122 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529734 解析视频链接成功！
+2019-03-29 20:45:36,155 - AdSectorPageViewUrlPipeline.py[line:24] - INFO: 解析到新链接： https://www.facebook.com/244134555779184
+2019-03-29 20:45:36,159 - AdSectorSpider.py[line:108] - INFO: https://adsector.com/login : 解析完毕！
+2019-03-29 20:45:36,204 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526521 解析视频链接成功！
+2019-03-29 20:45:36,225 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527819 解析视频链接成功！
+2019-03-29 20:45:52,945 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527857 解析视频链接成功！
+2019-03-29 20:45:52,948 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526409 解析视频链接成功！
+2019-03-29 20:45:52,950 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526434 解析视频链接成功！
+2019-03-29 20:45:52,956 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526597 解析视频链接成功！
+2019-03-29 20:45:52,959 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526653 解析视频链接成功！
+2019-03-29 20:46:26,409 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527311 解析视频链接成功！
+2019-03-29 20:46:26,448 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10432750 解析视频链接成功！
+2019-03-29 20:46:26,458 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/244134555779184/videos/1000971073428858
+2019-03-29 20:46:26,459 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10443142 解析视频链接成功！
+2019-03-29 20:46:26,482 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/8917475 解析视频链接成功！
+2019-03-29 20:46:26,485 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10201598 解析视频链接成功！
+2019-03-29 20:46:43,094 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10221815 解析视频链接成功！
+2019-03-29 20:46:43,098 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10340417 解析视频链接成功！
+2019-03-29 20:46:43,104 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10473619 解析视频链接成功！
+2019-03-29 20:46:43,107 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10478725 解析视频链接成功！
+2019-03-29 20:47:16,382 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10494961 解析视频链接成功！
+2019-03-29 20:47:16,434 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526061 解析视频链接成功！
+2019-03-29 20:47:16,447 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10511476 解析视频链接成功！
+2019-03-29 20:47:16,450 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10514003 解析视频链接成功！
+2019-03-29 20:47:38,641 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10514133 解析视频链接成功！
+2019-03-29 20:47:38,644 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10518050 解析视频链接成功！
+2019-03-29 20:47:38,647 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10522046 解析视频链接成功！
+2019-03-29 20:47:38,650 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10523588 解析视频链接成功！
+2019-03-29 20:47:38,654 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526135 解析视频链接成功！
+2019-03-29 20:48:12,065 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526305 解析视频链接成功！
+2019-03-29 20:48:12,096 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527671 解析视频链接成功！
+2019-03-29 20:48:12,107 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527743 解析视频链接成功！
+2019-03-29 20:48:12,127 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527932 解析视频链接成功！
+2019-03-29 20:48:12,129 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526397 解析视频链接成功！
+2019-03-29 20:48:12,132 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10526406 解析视频链接成功！
+2019-03-29 20:48:12,135 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527342 解析视频链接成功！
+2019-03-29 20:48:39,880 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527600 解析视频链接成功！
+2019-03-29 20:48:39,884 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527651 解析视频链接成功！
+2019-03-29 20:48:39,888 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527887 解析视频链接成功！
+2019-03-29 20:49:07,584 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527953 解析视频链接成功！
+2019-03-29 20:49:07,595 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528444 解析视频链接成功！
+2019-03-29 20:49:07,605 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527933 解析视频链接成功！
+2019-03-29 20:49:07,625 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528579 解析视频链接成功！
+2019-03-29 20:49:07,638 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528620 解析视频链接成功！
+2019-03-29 20:49:07,645 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528732 解析视频链接成功！
+2019-03-29 20:49:07,654 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528758 解析视频链接成功！
+2019-03-29 20:49:07,657 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10527950 解析视频链接成功！
+2019-03-29 20:49:07,664 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528512 解析视频链接成功！
+2019-03-29 20:49:52,010 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528537 解析视频链接成功！
+2019-03-29 20:50:03,103 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529001 解析视频链接成功！
+2019-03-29 20:50:03,132 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529342 解析视频链接成功！
+2019-03-29 20:50:03,165 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10528936 解析视频链接成功！
+2019-03-29 20:50:03,188 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529464 解析视频链接成功！
+2019-03-29 20:50:19,803 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529104 解析视频链接成功！
+2019-03-29 20:50:19,806 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529306 解析视频链接成功！
+2019-03-29 20:50:19,809 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529386 解析视频链接成功！
+2019-03-29 20:50:19,811 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529388 解析视频链接成功！
+2019-03-29 20:50:19,814 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529422 解析视频链接成功！
+2019-03-29 20:50:19,818 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529458 解析视频链接成功！
+2019-03-29 20:50:53,059 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10530163 解析视频链接成功！
+2019-03-29 20:50:53,072 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10529496 解析视频链接成功！
+2019-03-29 20:50:53,095 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531023 解析视频链接成功！
+2019-03-29 20:50:53,102 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531028 解析视频链接成功！
+2019-03-29 20:50:53,112 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531158 解析视频链接成功！
+2019-03-29 20:50:53,121 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531274 解析视频链接成功！
+2019-03-29 20:50:53,133 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/992949710902011/videos/993007920896190
+2019-03-29 20:51:04,287 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10530716 解析视频链接成功！
+2019-03-29 20:51:04,290 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10530937 解析视频链接成功！
+2019-03-29 20:51:04,296 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531395 解析视频链接成功！
+2019-03-29 20:51:04,306 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/280130154809/videos/10157214801784810
+2019-03-29 20:51:04,306 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531442 解析视频链接成功！
+2019-03-29 20:51:04,319 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/542850719547201/videos/312255422823832
+2019-03-29 20:51:04,319 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531452 解析视频链接成功！
+2019-03-29 20:51:04,398 - AdSectorPageViewUrlPipeline.py[line:33] - INFO: 解析到新链接： https://www.facebook.com/324753815060630/videos/331358437515711
+2019-03-29 20:51:04,398 - AdSectorSpider.py[line:135] - INFO: https://adsector.com/ad/10531563 解析视频链接成功！

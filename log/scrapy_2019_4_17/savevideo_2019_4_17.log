@@ -1,0 +1,331 @@
+2019-04-17 15:44:17,356 - SaveVideoSpider.py[line:19] - INFO: 启动：saveVideoSpider(下载视频、音频和图片)
+2019-04-17 15:44:18,915 - SaveVideoSpider.py[line:59] - INFO: 启动SaveVideoSpider，准备开始工作...
+2019-04-17 15:44:19,031 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,032 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,033 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,034 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,035 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,036 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,037 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,038 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,039 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,039 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,040 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,041 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,041 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,042 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,043 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,044 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,045 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,046 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,046 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,047 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,048 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,049 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,050 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,051 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,051 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,052 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,053 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,054 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,054 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,055 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,056 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,056 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,057 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,057 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,058 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,058 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 83, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,059 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,060 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,060 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,061 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,062 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 87, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 15:44:19,062 - SaveVideoSpider.py[line:98] - ERROR: 'str' object has no attribute 'append'
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 79, in start_requests
+    url.append(url)
+AttributeError: 'str' object has no attribute 'append'
+2019-04-17 17:13:55,193 - SaveVideoSpider.py[line:19] - INFO: 启动：saveVideoSpider(下载视频、音频和图片)
+2019-04-17 17:13:56,189 - SaveVideoSpider.py[line:59] - INFO: 启动SaveVideoSpider，准备开始工作...
+2019-04-17 17:13:56,276 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,278 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,279 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,280 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,282 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,284 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,285 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,286 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,286 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,287 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,288 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,289 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:
+2019-04-17 17:13:56,290 - SaveVideoSpider.py[line:98] - ERROR: Request url must be str or unicode, got list:
+Traceback (most recent call last):
+  File "/home/hepburn/桌面/spider/scrapyuniversal/spiders/SaveVideoSpider.py", line 94, in start_requests
+    yield scrapy.Request(urlist,callback=self.parse,meta={'item':item},dont_filter=True)  # 此位置爬取图片链接时会出现ERROR: Missing scheme in request url，url需改为列表
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "/home/hepburn/.local/lib/python3.6/site-packages/scrapy/http/request/__init__.py", line 56, in _set_url
+    raise TypeError('Request url must be str or unicode, got %s:' % type(url).__name__)
+TypeError: Request url must be str or unicode, got list:

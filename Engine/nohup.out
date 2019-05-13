@@ -1,0 +1,46 @@
+/usr/lib64/python3.4/importlib/_bootstrap.py:321: ScrapyDeprecationWarning: Importing from scrapy.xlib.pydispatch is deprecated and will no longer be supported in future Scrapy versions. If you just want to connect signals use the from_crawler class method, otherwise import pydispatch directly if needed. See: https://github.com/scrapy/scrapy/issues/1762
+  return f(*args, **kwds)
+2019-04-15 03:36:32 [scrapy.utils.log] INFO: Scrapy 1.5.1 started (bot: scrapyuniversal)
+2019-04-15 03:36:32 [scrapy.utils.log] INFO: Versions: lxml 4.3.0.0, libxml2 2.9.9, cssselect 1.0.3, parsel 1.5.1, w3lib 1.20.0, Twisted 18.9.0, Python 3.4.9 (default, Aug 14 2018, 21:28:57) - [GCC 4.8.5 20150623 (Red Hat 4.8.5-28)], pyOpenSSL 18.0.0 (OpenSSL 1.1.0j  20 Nov 2018), cryptography 2.4.2, Platform Linux-3.10.0-957.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+2019-04-15 03:36:32 [scrapy.crawler] INFO: Overridden settings: {'CONCURRENT_REQUESTS_PER_DOMAIN': 32, 'CONCURRENT_REQUESTS': 32, 'AUTOTHROTTLE_ENABLED': True, 'BOT_NAME': 'scrapyuniversal', 'AUTOTHROTTLE_START_DELAY': 0.01, 'DOWNLOAD_FAIL_ON_DATALOSS': False, 'SPIDER_MODULES': ['scrapyuniversal.spiders'], 'DOWNLOAD_DELAY': 8.632286050540593, 'COOKIES_ENABLED': False, 'NEWSPIDER_MODULE': 'scrapyuniversal.spiders', 'RETRY_ENABLED': False, 'AJAXCRAWL_ENABLED': True, 'AUTOTHROTTLE_MAX_DELAY': 0.1}
+2019-04-15 03:36:32 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.throttle.AutoThrottle',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2019-04-15 03:36:32,849 - getVideoSpider.py[line:71] - INFO: GetVideoSpider启动...
+2019-04-15 03:36:32 [adsvideo_2019_4_15.log] INFO: GetVideoSpider启动...
+2019-04-15 03:36:32 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.ajaxcrawl.AjaxCrawlMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2019-04-15 03:36:32 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2019-04-15 03:36:32 [scrapy.middleware] INFO: Enabled item pipelines:
+['scrapyuniversal.pipelines.VideoInfoTextPipeline.VideoInfoTextPipeline',
+ 'scrapyuniversal.pipelines.VideoRedisPipeline.VideoRedisPipeline']
+2019-04-15 03:36:32 [scrapy.core.engine] INFO: Spider opened
+2019-04-15 03:36:32 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2019-04-15 03:36:32 [scrapy.extensions.telnet] DEBUG: Telnet console listening on 127.0.0.1:6023
+2019-04-15 03:36:32 [scrapy.core.engine] INFO: Closing spider (finished)
+2019-04-15 03:36:32 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 4, 15, 3, 36, 32, 896860),
+ 'log_count/DEBUG': 1,
+ 'log_count/INFO': 8,
+ 'memusage/max': 49655808,
+ 'memusage/startup': 49655808,
+ 'start_time': datetime.datetime(2019, 4, 15, 3, 36, 32, 890320)}
+2019-04-15 03:36:32 [scrapy.core.engine] INFO: Spider closed (finished)

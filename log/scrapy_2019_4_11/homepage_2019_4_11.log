@@ -1,0 +1,24 @@
+2019-04-11 05:34:35,759 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-04-11 05:35:50,122 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-04-11 05:46:52,011 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-04-11 05:47:13,189 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-04-11 05:47:44,261 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/wooshbeauty/: 爬取成功！
+2019-04-11 05:47:54,770 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/WhatsYOUNeedDotCom/: 爬取成功！
+2019-04-11 05:47:55,011 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/vzlushpage/: 爬取成功！
+2019-04-11 05:47:55,157 - GetVideoSpider.py[line:24] - INFO: 启动：getVideoSpider(爬取adSector.com网站的视频详情)
+2019-04-11 11:48:03,496 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-04-11 11:49:17,597 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-04-11 12:01:19,010 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-04-11 12:01:40,216 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-04-11 12:02:08,088 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/insideweatherdesign/: 爬取成功！
+2019-04-11 12:02:14,742 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/shoeldonline/: 爬取成功！
+2019-04-11 12:02:15,676 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/paleobakehouse/: 爬取成功！
+2019-04-11 12:02:15,805 - GetVideoSpider.py[line:24] - INFO: 启动：getVideoSpider(爬取adSector.com网站的视频详情)
+2019-04-11 18:02:23,661 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-04-11 18:03:38,693 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-04-11 18:17:44,550 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-04-11 18:18:05,750 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-04-11 18:18:23,283 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Lucky-Store-2071898552924809/: 爬取成功！
+2019-04-11 18:18:27,081 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/diggspet/: 爬取成功！
+2019-04-11 18:18:28,571 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/therunningbuddy/: 爬取成功！
+2019-04-11 18:18:28,699 - GetVideoSpider.py[line:24] - INFO: 启动：getVideoSpider(爬取adSector.com网站的视频详情)

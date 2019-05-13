@@ -1,0 +1,23 @@
+2019-03-30 00:13:30,889 - SaveVideoSpider.py[line:19] - INFO: 启动：saveVideoSpider(下载视频、音频和图片)
+2019-03-30 00:13:32,061 - SaveVideoSpider.py[line:59] - INFO: 启动SaveVideoSpider，准备开始工作...
+2019-03-30 00:13:32,357 - SaveVideoSpider.py[line:102] - INFO: 爬取失败: https://video-dfw5-1.xx.fbcdn.net/v/t42.1790-2/38074291_212733789396360_2495401914808664064_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRhdWRpb2ZvcnNvdXJjZXBpcGVsaW5lXzEyOF9jcmZfMjNfbWFpbl8zLjBfZnJhZ18yX2F1ZGlvIn0%3D&_nc_ht=video-dfw5-1.xx&oh=50db66019f77a9a370859c4ee37d2170&oe=5C9EA4C3
+2019-03-30 00:13:32,367 - SaveVideoSpider.py[line:102] - INFO: 爬取失败: https://video-den4-1.xx.fbcdn.net/v/t42.1790-2/38074291_212733789396360_2495401914808664064_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRhdWRpb2ZvcnNvdXJjZXBpcGVsaW5lXzEyOF9jcmZfMjNfbWFpbl8zLjBfZnJhZ18yX2F1ZGlvIn0%3D&_nc_ht=video-den4-1.xx&oh=190980b9ebfb6b07fcdbfaa27dd2f82e&oe=5C9C01C3
+2019-03-30 00:13:32,824 - SaveVideoSpider.py[line:102] - INFO: 爬取失败: https://scontent-dfw5-1.xx.fbcdn.net/v/t42.1790-29/10000000_758344677870581_8822174610544918528_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRfaHExX2ZyYWdfMl9hdWRpb19mcm9tX2xpdmVfZHZyX3YyIn0%3D&_nc_ht=scontent-dfw5-1.xx&oh=972fd9e39745101ad8d44da824f83821&oe=5C9DFCFB
+2019-03-30 00:13:32,971 - SaveVideoSpider.py[line:102] - INFO: 爬取失败: https://video-dfw5-1.xx.fbcdn.net/v/t42.1790-2/38074291_212733789396360_2495401914808664064_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRhdWRpb2ZvcnNvdXJjZXBpcGVsaW5lXzEyOF9jcmZfMjNfbWFpbl8zLjBfZnJhZ18yX2F1ZGlvIn0%3D&_nc_ht=video-dfw5-1.xx&oh=50db66019f77a9a370859c4ee37d2170&oe=5C9EA4C3
+2019-03-30 00:13:32,981 - SaveVideoSpider.py[line:102] - INFO: 爬取失败: https://scontent-dfw5-1.xx.fbcdn.net/v/t42.9040-29/10000000_366397364184621_7004614690772877312_n.mp4?_nc_cat=109&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRfaHEyX2ZyYWdfMl92aWRlb19mcm9tX2xpdmVfZHZyX3YyIn0%3D&_nc_ht=scontent-dfw5-1.xx&oh=6b39ea13a82f9fec306d2fcbd83a7b12&oe=5C9DFCD1
+2019-03-30 00:13:33,117 - SaveVideoSpider.py[line:102] - INFO: 爬取失败: https://video-sin2-2.xx.fbcdn.net/v/t42.1790-2/38074291_212733789396360_2495401914808664064_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRhdWRpb2ZvcnNvdXJjZXBpcGVsaW5lXzEyOF9jcmZfMjNfbWFpbl8zLjBfZnJhZ18yX2F1ZGlvIn0%3D&_nc_ht=video-sin2-2.xx&oh=b9e6faa13f17d635d22fc6406bd83859&oe=5C881113
+2019-03-30 00:13:33,604 - SaveVideoSpider.py[line:102] - INFO: 爬取失败: https://scontent-dfw5-1.xx.fbcdn.net/v/t42.9040-29/10000000_645264802596935_1980426466910797824_n.mp4?_nc_cat=109&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRfaHEyX2ZyYWdfMl92aWRlb19mcm9tX2xpdmVfZHZyX3YyIn0%3D&_nc_ht=scontent-dfw5-1.xx&oh=4e44788e8c10ac275b71ec32d597a213&oe=5C9E0057
+2019-03-30 00:13:33,678 - SaveVideoSpider.py[line:102] - INFO: 爬取失败: https://video-sin2-2.xx.fbcdn.net/v/t42.1790-2/38074291_212733789396360_2495401914808664064_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRhdWRpb2ZvcnNvdXJjZXBpcGVsaW5lXzEyOF9jcmZfMjNfbWFpbl8zLjBfZnJhZ18yX2F1ZGlvIn0%3D&_nc_ht=video-sin2-2.xx&oh=b9e6faa13f17d635d22fc6406bd83859&oe=5C881113
+2019-03-30 00:13:33,860 - SaveVideoSpider.py[line:102] - INFO: 爬取失败: https://scontent-dfw5-1.xx.fbcdn.net/v/t42.1790-29/10000000_1554417861358318_932991936074088448_n.mp4?_nc_cat=103&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdjRfaHExX2ZyYWdfMl9hdWRpb19mcm9tX2xpdmVfZHZyX3YyIn0%3D&_nc_ht=scontent-dfw5-1.xx&oh=86d5b79c50fdb23466506d753b14fa1d&oe=5C9E15BF
+2019-03-30 02:56:17,896 - SaveVideoSpider.py[line:19] - INFO: 启动：saveVideoSpider(下载视频、音频和图片)
+2019-03-30 02:56:19,094 - SaveVideoSpider.py[line:59] - INFO: 启动SaveVideoSpider，准备开始工作...
+2019-03-30 03:17:23,258 - SaveVideoSpider.py[line:19] - INFO: 启动：saveVideoSpider(下载视频、音频和图片)
+2019-03-30 03:17:24,441 - SaveVideoSpider.py[line:59] - INFO: 启动SaveVideoSpider，准备开始工作...
+2019-03-30 09:04:22,259 - SaveVideoSpider.py[line:19] - INFO: 启动：saveVideoSpider(下载视频、音频和图片)
+2019-03-30 09:04:23,461 - SaveVideoSpider.py[line:59] - INFO: 启动SaveVideoSpider，准备开始工作...
+2019-03-30 09:24:54,705 - SaveVideoSpider.py[line:19] - INFO: 启动：saveVideoSpider(下载视频、音频和图片)
+2019-03-30 09:24:55,878 - SaveVideoSpider.py[line:59] - INFO: 启动SaveVideoSpider，准备开始工作...
+2019-03-30 15:32:39,293 - SaveVideoSpider.py[line:19] - INFO: 启动：saveVideoSpider(下载视频、音频和图片)
+2019-03-30 15:32:40,467 - SaveVideoSpider.py[line:59] - INFO: 启动SaveVideoSpider，准备开始工作...
+2019-03-30 21:40:24,395 - SaveVideoSpider.py[line:19] - INFO: 启动：saveVideoSpider(下载视频、音频和图片)
+2019-03-30 21:40:25,578 - SaveVideoSpider.py[line:59] - INFO: 启动SaveVideoSpider，准备开始工作...

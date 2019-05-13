@@ -1,0 +1,23 @@
+2019-03-28 07:43:51,859 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-03-28 07:45:04,973 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-03-28 07:52:02,644 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-03-28 07:52:23,872 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-03-28 07:52:48,648 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Awesome-Bra-Collection-1177619372362754/: 爬取成功！
+2019-03-28 07:52:56,237 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Shoe-Panda-945228372349286/: 爬取成功！
+2019-03-28 07:52:56,359 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Whiskertons-co-361327684412049/: 爬取成功！
+2019-03-28 07:52:56,503 - GetVideoSpider.py[line:24] - INFO: 启动：getVideoSpider(爬取adSector.com网站的视频详情)
+2019-03-28 13:54:00,436 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-03-28 13:55:14,338 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-03-28 14:02:28,562 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-03-28 14:02:49,792 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-03-28 14:03:25,329 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Brilliaire-2239126813002184/: 爬取成功！
+2019-03-28 14:03:34,981 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Icycreamyy-324539371515150/: 爬取成功！
+2019-03-28 14:03:35,091 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/apehardware/: 爬取成功！
+2019-03-28 20:03:35,463 - AdspySpider.py[line:15] - INFO: 启动：adspySpider(爬取adspySpider.com网站)
+2019-03-28 20:04:50,340 - AdSectorSpider.py[line:17] - INFO: 启动：adSectorSpider(爬取adSector.com网站)
+2019-03-28 20:14:08,497 - HomepageSpider.py[line:18] - INFO: 启动：homepageSpider(爬取facebook主页信息)
+2019-03-28 20:14:29,681 - HomepageSpider.py[line:64] - INFO: 启动HomepageSpider，准备开始工作...
+2019-03-28 20:15:01,242 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Suplife-647393509028368/: 爬取成功！
+2019-03-28 20:15:10,600 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/The-Weekend-Club-276739826301420/: 爬取成功！
+2019-03-28 20:15:10,909 - HomepageSpider.py[line:143] - INFO: https://www.facebook.com/Dudechoice/: 爬取成功！
+2019-03-28 20:15:11,040 - GetVideoSpider.py[line:24] - INFO: 启动：getVideoSpider(爬取adSector.com网站的视频详情)
